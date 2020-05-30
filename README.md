@@ -1,2 +1,2 @@
 # penjualan-buku
- Aplikasi penjualan buku berbasis website menggunakan codeigniter 3
+ Aplikasi sederhana toko buku online berbasis website menggunakan codeigniter 3
